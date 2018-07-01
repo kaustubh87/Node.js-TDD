@@ -1,4 +1,5 @@
 require('co-mocha');
+var should = require('should');
 var data = require('../user-data');
 
 describe('user data', function(){
